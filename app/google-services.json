@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "977159438269",
+    "firebase_url": "https://firetest-bf49a.firebaseio.com",
+    "project_id": "firetest-bf49a",
+    "storage_bucket": "firetest-bf49a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977159438269:android:0ee25b167f30ddba",
+        "android_client_info": {
+          "package_name": "com.nevis.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977159438269-ccsaj98705v735ck6viattr0vc1d3r8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nevis.firebase",
+            "certificate_hash": "057DC76BA08C0C26C5D3CE73EE9D225364B29083"
+          }
+        },
+        {
+          "client_id": "977159438269-rie0p4rou7bij60k1q8mijctsc14mdrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{"current_key": "AIzaSyAXQV3ty0qvYYv19wkuvRPFxvwdJbmfW3o"}],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977159438269-rie0p4rou7bij60k1q8mijctsc14mdrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
